@@ -1,0 +1,3 @@
+espace : pour avancer
+entrer : pour lancer la boule
+il existe un bouton réinisialiser qui sert comme le nom l'indique a réinisialiser le personnage qu'on doit toucher
